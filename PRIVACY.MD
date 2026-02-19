@@ -49,4 +49,4 @@ If this policy changes in the future, we will provide a clear notification throu
 
 ### 8. Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at: **[Your Contact Email or GitHub Issues URL]**
+If you have any questions or concerns about this Privacy Policy, please contact us at: **[seojihan77@gmail.com]**
