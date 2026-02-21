@@ -1,1 +1,48 @@
+1. Core Philosophy
+Privacy First
+We do not collect your data. Period. Every piece of information remains exclusively within your browser's local storage — never transmitted, never exposed.
+Serverless Architecture
+With no backend servers, there is zero risk of data breaches. Postrix responds instantly, regardless of your internet connection status.
+Pure Web Technology
+Built entirely with HTML, CSS, and JavaScript — no unnecessary libraries, no bloated frameworks. Postrix is engineered to be exceptionally lightweight, ensuring zero impact on your browser's performance.
 
+2. Workspace Management: Auto Mode & Pin
+Postrix intelligently recognizes the pages you visit and manages your workspace accordingly.
+📍 Auto Workspace (Auto Mode)
+When visiting a standard website, Postrix analyzes the URL and automatically loads the widgets associated with that page. Resume exactly where you left off — no configuration required.
+📌 Pin Current Page — Highly Recommended
+Websites built on SPA (Single Page Application) frameworks — such as YouTube or Gmail — dynamically update URLs without full page reloads, which can interfere with automatic workspace detection.
+Solution: Use the "Pin Current Page" button to assign a name and anchor your workspace to a specific page. This manually created workspace acts as a stable anchor, ensuring your widgets remain intact even as the URL shifts.
+Additionally, you can create multiple pins within a single site — for example, separating "Work" and "Study" workspaces — and switch between widget sets seamlessly.
+
+3. Widget Lineup
+📝 Memo
+Capture ideas the moment they strike. Fast, simple, and always within reach.
+✅ Checklist
+Manage your to-dos, tasks, or shopping lists with ease. A built-in progress bar keeps your productivity visible.
+🗄️ Section
+Group multiple widgets into a single organized unit. Free-form drawing (Pen tool) is also available within sections.
+📋 Clipboard
+Every time you copy text (Ctrl+C) on the web, it's automatically logged in your Clipboard widget — accessible globally across all pages.
+🔗 Quick Link
+Consolidate your most-visited or project-related URLs into one convenient hub.
+
+4. Site Editing & Widget Linking
+✏️ Edit Text
+Temporarily modify webpage text to preview layouts or annotate content for personal reference.
+🔗 Link Widget
+Connect any widget to a specific page element — a button, image, or section. Clicking that element instantly highlights the linked widget for immediate access.
+
+5. Technical Notes
+Live Widget Limitations
+Live Widgets, which retrieve real-time data, perform optimally on static page structures. On SPA-based sites such as YouTube, real-time data tracking may be limited. In such cases, we recommend utilizing standard Memo or Checklist widgets as alternatives.
+Data Deletion Warning
+The "Delete All Data" function permanently removes all Postrix data stored in your browser. As no server-side backup exists, please proceed with caution.
+
+6. Data Management
+Active
+Displays all widgets currently associated with the active page or pin.
+Storage
+A secure holding area for widgets you don't need on-screen right now, but may wish to retrieve later.
+Trash
+Deleted widgets are moved here. Restore or permanently delete them at any time.
