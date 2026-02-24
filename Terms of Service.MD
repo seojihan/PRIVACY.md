@@ -41,4 +41,3 @@ If you have any questions regarding these Terms, please contact us:
 
 Email: seojihan77@gmail.com
 Community: discord.gg/BzPsjA2Y
-
