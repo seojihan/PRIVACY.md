@@ -59,6 +59,18 @@ Connect any widget to a specific page element — a button, image, or section. C
 
 ## 5. Technical Notes
 
+### 🔄 First-Time Setup: Refresh Required
+
+After installing Postrix, the extension will **not activate immediately on tabs that were already open** before installation — such as Discord, Gmail, or any other page you had running beforehand.
+
+This is due to the following reasons:
+
+1. **Script Injection Timing** — Postrix injects its content script when a page first loads. Tabs that were already open before installation have already passed that injection point, so the extension simply missed its window to load.
+
+2. **Browser Security Policy** — For security reasons, browsers do not allow extensions to forcibly inject code into existing tabs immediately upon installation. The extension's permissions only apply when the page is freshly loaded by the user.
+
+3. **Easy Fix** — Simply press **F5 (Refresh)** on any existing tab, or close and reopen the page. That's all it takes — Postrix will load instantly and be ready to use.
+
 ### ⚠️ Live Widget Limitations
 Live Widgets, which retrieve real-time data, perform optimally on **static page structures**. On SPA-based sites such as YouTube, real-time data tracking may be limited.
 
@@ -87,7 +99,3 @@ A paid plan will be introduced upon official release. **Try it for free right no
 ---
 
 *© 2026 Postrix. All rights reserved.*
-Storage
-A secure holding area for widgets you don't need on-screen right now, but may wish to retrieve later.
-Trash
-Deleted widgets are moved here. Restore or permanently delete them at any time.
