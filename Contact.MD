@@ -1,22 +1,23 @@
-Postrix Contact
-Last Updated: 2026-02-19
-Thank you for reaching out! We're always happy to hear from our users. Whether you have a question, a bug report, or a feature suggestion — we're here for you.
-1. Business Contact
-For partnership, collaboration, or any official business-related matters:
+# Contact
 
-Email: seojihan77@gmail.com
+## Get in Touch
 
-2. Communication and Feedback
-Join our Discord community to share feedback, report issues, suggest features, or just say hi:
+Have a question, found a bug, or want to share feedback? We'd love to hear from you.
 
-Discord: discord.gg/BzPsjA2Y
+## Discord (Recommended)
 
-3. Information on Usage and Terms of Service
+The best way to reach us is through the Postrix Discord community. You can report bugs, suggest features, or just say hello.
 
-Official Guide: Postrix — Official Guide
-Privacy Policy: PRIVACY.MD
+https://discord.gg/Hxf7fPuv
 
-4. YouTube
-Watch our official introduction video to get started with Postrix:
+## Bug Reports
 
-YouTube: https://youtu.be/wpcRJJENDCk
+If you've found a bug, please include the following when reporting:
+- What you were doing when the bug occurred
+- What you expected to happen
+- What actually happened
+- Your browser version
+
+## Feature Requests
+
+Have an idea for a new feature? Share it in the Discord — all feedback is welcome and appreciated.
