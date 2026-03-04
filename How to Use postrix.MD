@@ -1,101 +1,45 @@
-# Postrix — Official Guide
+# How to Use Postrix
 
-> **Your Web. Your Way.**
-> Customize any webpage to fit your needs — exactly the way you want it. With Postrix, the web works for you.
+## Getting Started
 
----
+### 1. Install the Extension
+Install Postrix from the Microsoft Edge Add-ons store:
+https://microsoftedge.microsoft.com/addons/detail/igmkojemcaieihfkkiaecfpedhimgmpg
 
-## 1. Core Philosophy
-
-### 🔒 Privacy First
-We do not collect your data. Period. Every piece of information remains exclusively within your browser's local storage — never transmitted, never exposed.
-
-### ⚡ Serverless Architecture
-With no backend servers, there is zero risk of data breaches. Postrix responds instantly, regardless of your internet connection status.
-
-### 🪶 Pure Web Technology
-Built entirely with HTML, CSS, and JavaScript — no unnecessary libraries, no bloated frameworks. Postrix is engineered to be exceptionally lightweight, ensuring zero impact on your browser's performance.
+Once installed, click the Postrix icon in your browser toolbar to open your canvas.
 
 ---
 
-## 2. Workspace Management: Auto Mode & Pin
+## Using the Canvas
 
-Postrix intelligently recognizes the pages you visit and manages your workspace accordingly.
+### Adding Folders
+- Drag and drop a folder from your file system onto the canvas
+- Postrix will display the folder as a card showing its contents — no need to open it
+- You can move and resize cards freely on the canvas
 
-### 📍 Auto Workspace (Auto Mode)
-When visiting a standard website, Postrix analyzes the URL and automatically loads the widgets associated with that page. Resume exactly where you left off — no configuration required.
+### Adding Links & URLs
+- Add a URL card to organize your links alongside your folders
+- Group related links together into a single card
+- Arrange link cards anywhere on the canvas
 
-### 📌 Pin Current Page — Highly Recommended
-
-Websites built on SPA (Single Page Application) frameworks — such as YouTube or Gmail — dynamically update URLs without full page reloads, which can interfere with automatic workspace detection.
-
-**Solution:** Use the **"Pin Current Page"** button to assign a name and anchor your workspace to a specific page. This manually created workspace acts as a stable anchor, ensuring your widgets remain intact even as the URL shifts.
-
-> 💡 You can create multiple pins within a single site — for example, separating **"Work"** and **"Study"** workspaces — and switch between widget sets seamlessly.
-
----
-
-## 3. Widget Lineup
-
-| Widget | Description |
-|--------|-------------|
-| 📝 **Memo** | Capture ideas the moment they strike. Fast, simple, and always within reach. |
-| ✅ **Checklist** | Manage your to-dos and tasks with ease. A built-in progress bar keeps your productivity visible. |
-| 🗄️ **Section** | Group multiple widgets into a single organized unit. Free-form drawing (Pen tool) is also available within sections. |
-| 📋 **Clipboard** | Every time you copy text (Ctrl+C) on the web, it's automatically logged — accessible globally across all pages. |
-| 🔗 **Quick Link** | Consolidate your most-visited or project-related URLs into one convenient hub. |
+### Organizing Your Workspace
+- Drag cards around to arrange your workspace however you like
+- Resize cards to fit your layout
+- Everything is saved automatically in your browser
 
 ---
 
-## 4. Site Editing & Widget Linking
+## Exporting Your Workspace
 
-### ✏️ Edit Text
-Temporarily modify webpage text to preview layouts or annotate content for personal reference.
-
-### 🔗 Link Widget
-Connect any widget to a specific page element — a button, image, or section. Clicking that element instantly highlights the linked widget for immediate access.
-
----
-
-## 5. Technical Notes
-
-### 🔄 First-Time Setup: Refresh Required
-
-After installing Postrix, the extension will **not activate immediately on tabs that were already open** before installation — such as Discord, Gmail, or any other page you had running beforehand.
-
-This is due to the following reasons:
-
-1. **Script Injection Timing** — Postrix injects its content script when a page first loads. Tabs that were already open before installation have already passed that injection point, so the extension simply missed its window to load.
-
-2. **Browser Security Policy** — For security reasons, browsers do not allow extensions to forcibly inject code into existing tabs immediately upon installation. The extension's permissions only apply when the page is freshly loaded by the user.
-
-3. **Easy Fix** — Simply press **F5 (Refresh)** on any existing tab, or close and reopen the page. That's all it takes — Postrix will load instantly and be ready to use.
-
-### ⚠️ Live Widget Limitations
-Live Widgets, which retrieve real-time data, perform optimally on **static page structures**. On SPA-based sites such as YouTube, real-time data tracking may be limited.
-
-> In such cases, we recommend utilizing standard **Memo** or **Checklist** widgets as alternatives.
-
-### 🗑️ Data Deletion Warning
-The **"Delete All Data"** function permanently removes all Postrix data stored in your browser. As no server-side backup exists, **please proceed with caution.**
+You can export your entire workspace as a single self-contained HTML file.
+- Click the export button
+- Save the HTML file to your device
+- Share it with anyone — they can open it in any browser, no installation needed
 
 ---
 
-## 6. Data Management
+## Tips
 
-| Tab | Description |
-|-----|-------------|
-| **Active** | Displays all widgets currently associated with the active page or pin. |
-| **Storage** | A secure holding area for widgets you don't need on-screen right now, but may wish to retrieve later. |
-| **Trash** | Deleted widgets are moved here. Restore or permanently delete them at any time. |
-
----
-
-### 🚀 Now in Beta — Free to Use!
-Postrix is currently in beta, and during this period, **all features are completely free to use.** We are continuously improving the extension based on your feedback.
-
-A paid plan will be introduced upon official release. **Try it for free right now!**
-
----
-
-*© 2026 Postrix. All rights reserved.*
+- There is no account or login required — your data never leaves your browser
+- Use the export feature to back up your workspace or share it with others
+- Found a bug or have a suggestion? Join the Discord: https://discord.gg/Hxf7fPuv
