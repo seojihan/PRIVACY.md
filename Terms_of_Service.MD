@@ -1,31 +1,40 @@
-Postrix Terms of Service
-Last Updated: 2026-02-19 Effective Date: 2026-02-19
-Thank you for using Postrix. By installing or using the Postrix browser extension (the "Extension"), you agree to the following Terms of Service. Please read them carefully.
-1. Acceptance of Terms
-By installing or using the Extension, you agree to be bound by these Terms. If you do not agree, please uninstall and discontinue use of the Extension.
-2. Description of Service
-Postrix is a browser extension that allows users to place modular widgets — including notes, checklists, links, and more — on top of any webpage. The Extension operates entirely on your local device. No account creation is required.
-3. Beta Service Notice
-Postrix is currently in beta. During this period:
+# Terms of Service
 
-All features are provided free of charge.
-Features, functionality, and availability may change at any time without prior notice.
-A paid plan will be introduced upon official release. Current beta users will be notified in advance.
+**Last updated: March 2026**
 
-4. User Responsibilities
-By using the Extension, you agree to:
+## 1. Acceptance of Terms
 
-Use the Extension for lawful purposes only.
-Not attempt to reverse-engineer, decompile, or tamper with the Extension's code.
-Not use the Extension in any way that could harm, disable, or impair its functionality.
+By installing or using Postrix, you agree to these Terms of Service. If you do not agree, please do not use the extension.
 
-5. Intellectual Property
-All content, code, design, and branding associated with Postrix are the exclusive property of Postrix Studio. Unauthorized reproduction or distribution is strictly prohibited.
-6. Disclaimer of Warranties
-The Extension is provided "as is" without warranties of any kind. We do not guarantee that the Extension will be error-free, uninterrupted, or compatible with all websites or browsers.
-7. Limitation of Liability
-To the fullest extent permitted by law, Postrix Studio shall not be liable for any indirect, incidental, or consequential damages arising from the use or inability to use the Extension.
-8. Changes to Terms
-We reserve the right to update these Terms at any time. Continued use of the Extension after changes are posted constitutes your acceptance of the revised Terms.
-9. Contact Us
-If you have any questions regarding these Terms, please contact us at: [seojihan77@gmail.com]
+## 2. Description of Service
+
+Postrix is a free browser extension that provides a visual canvas for organizing folders and links. It runs entirely in your browser with no server or account required.
+
+## 3. Use of the Service
+
+You agree to use Postrix only for lawful purposes. You may not use Postrix to:
+
+- Violate any applicable laws or regulations
+- Infringe on the rights of others
+- Attempt to reverse engineer or modify the extension in unauthorized ways
+
+## 4. No Warranty
+
+Postrix is provided "as is" during its Beta period. We make no guarantees about uptime, accuracy, or fitness for a particular purpose. Use at your own risk.
+
+## 5. Limitation of Liability
+
+To the fullest extent permitted by law, Postrix and its developer shall not be liable for any damages arising from the use or inability to use the service.
+
+## 6. Changes to the Service
+
+We reserve the right to modify or discontinue Postrix at any time without notice.
+
+## 7. Changes to These Terms
+
+These terms may be updated from time to time. Continued use of Postrix after changes constitutes acceptance of the new terms.
+
+## 8. Contact
+
+For questions about these terms, please contact us via Discord:
+https://discord.gg/Hxf7fPuv
