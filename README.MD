@@ -1,38 +1,36 @@
-Your Web. Your Way.
-Transform any webpage into your own personalized workspace — exactly the way you want it.
+# Postrix
 
-Postrix is a browser extension that lets you place modular widgets — notes, checklists, links, and more — on top of any website. All your data is stored 100% locally on your device. No servers. No tracking. Just you and your web.
-✨ Key Features
+**A visual canvas for organizing folders and links — right in your browser.**
 
-📝 Memo — Capture ideas instantly on any webpage
-✅ Checklist — Manage tasks with a built-in progress bar
-📋 Clipboard — Auto-logs everything you copy (Ctrl+C)
-🔗 Quick Link — Save and access your favorite URLs instantly
-🗄️ Section — Group widgets and draw freely inside them
-📌 Pin Current Page — Lock your workspace to any page, even on SPAs like YouTube or Gmail
+## What is Postrix?
 
-🔒 Privacy & Philosophy
+Postrix lets you drag folders onto a canvas and instantly see their contents without opening them. You can also organize URLs and links into cards, and arrange everything freely on the same canvas — like a personal workspace.
 
-Privacy First — We do not collect your data. Ever.
-Serverless — No backend. No data breach risk.
-Pure Web — Built with HTML/CSS/JS only. Feather-light.
+## Features
 
-📥 Installation
+- Drag folders onto a canvas and preview their contents instantly
+- Organize URLs and links into cards
+- Arrange everything freely on a visual canvas
+- Export your workspace as a single self-contained HTML file
+- Available as a browser extension for Edge
+- No server, no account — everything stays in your browser
 
-Microsoft Edge Add-ons ← Link will be updated after release
+## Installation
 
-📚 Documentation
+Install the Postrix extension from the Microsoft Edge Add-ons store:
 
-How to Use Postrix
-Privacy Policy
+https://microsoftedge.microsoft.com/addons/detail/igmkojemcaieihfkkiaecfpedhimgmpg
 
-📬 Contact
+## Feedback & Bug Reports
 
-Business: seojihan77@gmail.com
-Community & Feedback: discord.gg/BzPsjA2Y
+Join the Discord community to share feedback or report bugs:
 
-🚀 Status
+https://discord.gg/Hxf7fPuv
 
-Currently in Beta — All features are free to use.
-A paid plan will be introduced upon official release.
+## Tech Stack
 
+Built entirely with HTML, CSS, and JavaScript.
+
+## Status
+
+Currently in **Beta**. Free to use.
