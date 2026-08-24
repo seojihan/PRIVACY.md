@@ -34,5 +34,4 @@ If this privacy policy changes in the future, the updated version will be posted
 
 ## Contact
 
-If you have any questions about privacy, please reach out via Discord:
-https://discord.gg/Hxf7fPuv
+If you have any questions about privacy, please contact us at seojihan77@gmail.comIf you have any questions about privacy, please contact us at seojihan77@gmail.com
