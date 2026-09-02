@@ -4,11 +4,11 @@
 
 Have a question, found a bug, or want to share feedback? We'd love to hear from you.
 
-## Discord (Recommended)
+## Google_Gmail 
 
-The best way to reach us is through the Postrix Discord community. You can report bugs, suggest features, or just say hello.
+You can report bugs, suggest features
 
-https://discord.gg/Hxf7fPuv
+seojihan77@gmail.com
 
 ## Bug Reports
 
