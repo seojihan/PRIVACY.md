@@ -36,5 +36,4 @@ These terms may be updated from time to time. Continued use of Postrix after cha
 
 ## 8. Contact
 
-For questions about these terms, please contact us via Discord:
-https://discord.gg/Hxf7fPuv
+Found a bug or have a suggestion? Please report it to our team via email: seojihan77@gmail.com
