@@ -42,4 +42,4 @@ You can export your entire workspace as a single self-contained HTML file.
 
 - There is no account or login required — your data never leaves your browser
 - Use the export feature to back up your workspace or share it with others
-- Found a bug or have a suggestion? please report our team Gmail :seojihan77@gmail.com
+- Found a bug or have a suggestion? Please report it to our team via email: seojihan77@gmail.com
