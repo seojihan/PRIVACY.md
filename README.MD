@@ -23,9 +23,9 @@ https://microsoftedge.microsoft.com/addons/detail/igmkojemcaieihfkkiaecfpedhimgm
 
 ## Feedback & Bug Reports
 
-Join the Discord community to share feedback or report bugs:
+Found a bug or have a suggestion? Please report it to our team via email:
 
-https://discord.gg/Hxf7fPuv
+seojihan77@gmail.com
 
 ## Tech Stack
 
